@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Hanwen's Homepage"
+title                    : "The Homepage of Hanwen Feng"
 title_separator          : "-"
 name                     : &name "Hanwen Feng"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         : "Alibaba Group"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=y9bHwWsAAAAJ&hl=en-US"
-  email            :
+  email            : "hanw.feng94 at gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
