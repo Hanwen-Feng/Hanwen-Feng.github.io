@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "The Homepage of Hanwen Feng"
 title_separator          : "-"
-name                     : &name "Hanwen Feng"
+name                     : &name "Hanwen Feng (冯翰文 in Chinese)"
 description              : &description "Working on Cryptography & Data Security"
 url                      : https://hanwen-feng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
