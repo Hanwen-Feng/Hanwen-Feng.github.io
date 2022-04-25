@@ -19,6 +19,9 @@ Publications
 - Computational Robust (Fuzzy) Extractors for CRS-Dependent Sources with Minimal Min-entropy. (TCC 2021)  
 **Hanwen Feng**, Qiang Tang
 
+- Scape: Scalable Collaborative Analytics System on Private Database with Malicious Security. (ICDE 2022)
+Han Feng, Lan Zhang, **Hanwen Feng**, Weiran Liu, Xiangyang Li.
+
 - Traceable Ring Signatures: General Framework and Post-Quantum Security. (Designs, Codes and Cryptography, 2021，the extended version of CT-RSA'20 paper)   
 **Hanwen Feng**, Jianwei Liu, Dawei Li, Ya-Nan Li, Qianhong Wu.
 
@@ -52,5 +55,5 @@ I served as external reviewers for the following conferences:  Usenix Security 2
 
 Awards & Honors
 ======
-I received *Outstanding Graduate Student in Cyber Security* scholarship from China Internet Development Foundation, *National Scholarship* from China Government, etc.
+I received *Excellent Doctoral Dissertation Award* from Beihang University, *Outstanding Graduate Student in Cyber Security* scholarship from China Internet Development Foundation, *National Scholarship* from China Government, etc.
 
