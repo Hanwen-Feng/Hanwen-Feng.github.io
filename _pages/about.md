@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior security engineer at Alibaba Group. In 2021.6, I obtained my doctoral degree in Cryptography from Beihang University under the supervision of Prof. Jianwei Liu and Prof. Qianhong Wu. I was also trained at New Jersey Institue of Technology from 2019.9--2020.11, hosted by Prof. Qiang Tang. I got my bachelor degree in Mathematics from Beihang University. 
-My research interests lie primarily in cryptography and data security techniques.
+I am currently a senior engineer at Alibaba Group. In 2021.6, I obtained my doctoral degree in Cryptography from Beihang University under the supervision of Prof. Jianwei Liu and Prof. Qianhong Wu. I was also trained at New Jersey Institue of Technology from 2019.9--2020.11, hosted by Prof. Qiang Tang. I got my bachelor degree in Mathematics from Beihang University. 
+My research interests lie primarily in theoretical computer science and privacy-enhancing technologies.
 
 Publications
 ======
