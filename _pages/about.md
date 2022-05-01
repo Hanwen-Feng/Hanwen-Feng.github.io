@@ -55,5 +55,5 @@ I served as external reviewers for the following conferences:  Usenix Security 2
 
 Awards & Honors
 ======
-I received *Excellent Doctoral Dissertation Award* from Beihang University, *Outstanding Graduate Student in Cyber Security* scholarship from China Internet Development Foundation, *National Scholarship* from China Government, etc.
+I received *Excellent Doctoral Dissertation Award* from Beihang University, *Outstanding Graduate Student in Cyber Science* scholarship from China Internet Development Foundation, *National Scholarship* from China MOE, etc.
 
