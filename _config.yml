@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "The Homepage of Hanwen Feng"
 title_separator          : "-"
 name                     : &name "Hanwen Feng (冯翰文 in Chinese)"
-description              : &description "Working on Cryptography & Data Security"
+description              : &description "Working on Privacy-Enhancing Technologies"
 url                      : https://hanwen-feng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hanwen-Feng/Hanwen-Feng.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hanwen Feng"
-  avatar           : "myphoto.jpg"
+  avatar           : "photo-inpark.jpg"
   bio              : "Working on Cryptography and Data Security"
   location         : "Beijing, China"
   employer         : "Alibaba Group"
