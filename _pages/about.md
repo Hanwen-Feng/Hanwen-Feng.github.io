@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior engineer at Alibaba Group. In 2021.6, I obtained my doctoral degree in Cryptography from Beihang University under the supervision of Prof. Jianwei Liu and Prof. Qianhong Wu. I was also trained at New Jersey Institue of Technology from 2019.9--2020.11, hosted by Prof. Qiang Tang. I got my bachelor degree in Mathematics from Beihang University. 
+I am currently a postdoctoral researcher at University of Sydney, supervised by Dr. Qiang Tang. From 2021.6 to 2022.10, I was a senior security engineer at Alibaba Group. In 2021.6, I obtained my doctoral degree in Cryptography from Beihang University under the supervision of Prof. Jianwei Liu and Prof. Qianhong Wu. I was also trained at New Jersey Institue of Technology from 2019.9--2020.11. I got my bachelor degree in Mathematics from Beihang University. 
 My research interests lie primarily in theoretical computer science and privacy-enhancing technologies.
 
-**I will be a posdoc at the University of Sydney from November 2022.**
 
 Publications
 ======
@@ -60,7 +59,7 @@ I am contributing to [mpc4j](https://github.com/alibaba-edu/mpc4j), a Java-based
 
 Academic Services
 ======
-I served as external reviewers for the following conferences: CCS 2022, Usenix Security 2022, ASIACRYPT 2022, NDSS 2022, PKC 2022, ASIACRYPT 2021, CTRSA 2022, ACNS 2021, ICISC 2020, ESORICS 2020, ACISP 2020, etc.
+I served as external reviewers for the following conferences: EUROCRYPT 2023, Okland 2023, CCS 2022, Usenix Security 2022, ASIACRYPT 2022, NDSS 2022, PKC 2022, ASIACRYPT 2021, CTRSA 2022, ACNS 2021, ICISC 2020, ESORICS 2020, ACISP 2020, etc.
 
 Awards & Honors
 ======

@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Hanwen Feng"
-  avatar           : "photo-inpark.jpg"
+  avatar           : "mountainphoto.jpg"
   bio              : "Working on Privacy-Enhancing Technologies"
-  location         : "Beijing, China"
-  employer         : "Alibaba Group"
+  location         : "Sydney, Australia"
+  employer         : "University of Sydney"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=y9bHwWsAAAAJ&hl=en-US"
   email            : "hanw.feng94 @ gmail.com"
