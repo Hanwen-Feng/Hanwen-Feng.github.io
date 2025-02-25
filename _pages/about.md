@@ -22,39 +22,34 @@ I have a broad spectrum of interests in cryptography and computer security, with
 
 Distributed Key and Randomness Generation
 ------------------------------
-> *A secret’s birth that none alone can hold.*
+*A secret’s birth that none alone can hold.*
 
 - [PODC'24] Dragon: Decentralization at the cost of Representation after Arbitrary Grouping and Its Applications to Sub-cubic DKG and Interactive Consistency ([link](https://eprint.iacr.org/2024/168.pdf))  
 ACM Symposium on Principles of Distributed Computing (A* Conference)  
 *Hanwen Feng*, Zhenliang Lu, Qiang Tang
-> It gives the first DKG and coin flipping Protocol with sub-cubic communication complexity.
 
 - [CCS'24] Scalable and Adaptively Secure Any-Trust Distributed Key Generation and All-hands Checkpointing ([link](https://eprint.iacr.org/2023/1773.pdf))  
 ACM Conference on Computer and Communications Security (A* Conference)  
 *Hanwen Feng*, Tiancheng Mai, Qiang Tang
-> It enables an all-hands checkpointing for PoS with a small constant cost.
 
-- [Preprint] Asymptotically Optimal Adaptive Asynchronous Common Coin and DKG with Silent Setup [Eprint Link](https://eprint.iacr.org/2024/2098)
+- [Preprint] Asymptotically Optimal Adaptive Asynchronous Common Coin and DKG with Silent Setup ([link](https://eprint.iacr.org/2024/2098))
 *Hanwen Feng*, Qiang Tang
-> It gives the first asynchronous DKG and coin flipping protocol with optimal communication complexity ($O(\lambda n^2)$) without private setup.
 
-- [Preprint] Practical Asynchronous Distributed Key Reconfiguration and Its Applications [Eprint Link](https://eprint.iacr.org/2025/149)
+- [Preprint] Practical Asynchronous Distributed Key Reconfiguration and Its Applications ([link](https://eprint.iacr.org/2025/149))
 *Hanwen Feng*, Yingzi Gao, Yuan Lu, Qiang Tang, Jing Xu
-> Fast reconfiguration of distributed keys using established threshold cryptogsystems.
 
 - [Manuscript] Circular Dragon: $\widetilde{\mbox{O}}$ptimal Adaptively Secure Distributed Key and Randomness Generation
 *Hanwen Feng*, Yuan Lu, Tiancheng Mai, Qiang Tang
-> It gives the first synchronous DKG and coin flipping with near-optimal communication complexity and round complexity.
 
 
 Byzantine Consensus
 ------------------------------
-> *Through whispers false and voices loud, consensus rises strong and proud.*
+*Through whispers false and voices loud, consensus rises strong and proud.*
 
-- [Preprint] Making Hash-based MVBA Great Again [Eprint Link](https://eprint.iacr.org/2024/479)
+- [Preprint] Making Hash-based MVBA Great Again ([link](https://eprint.iacr.org/2024/479))
 *Hanwen Feng*, Zhenliang Lu, Tiancheng Mai, Qiang Tang
 
-- [Preprint] $\widetilde{O}$ptimal Adaptively Secure Hash-based Asynchronous Common Subset [Eprint Link](https://eprint.iacr.org/2024/1710)
+- [Preprint] $\widetilde{O}$ptimal Adaptively Secure Hash-based Asynchronous Common Subset ([link](https://eprint.iacr.org/2024/1710))
 *Hanwen Feng*, Zhenliang Lu,  Qiang Tang
 
 - [Manuscript] Optimal Byzantine Agreement in the Presence of Message Drops
@@ -62,7 +57,7 @@ Byzantine Consensus
 
 Authentication & Accountability
 ------------------------------
-> *In each truth that a voice proclaims, accountability stands, and trust remains.*
+ *In each truth that a voice proclaims, accountability stands, and trust remains.*
 
  - [CRYPTO' 21] Witness Authenticating NIZKs and Applications ([link](https://eprint.iacr.org/2023/1276.pdf))  
 Annual International Cryptology Conference (A* Conference)  
@@ -102,14 +97,16 @@ Han Feng, Lan Zhang, *Hanwen Feng*, Weiran Liu, Xiangyang Li
 {IEEE Transactions on Dependable and Secure Computing} (A Journal)  
 Xiaochen Li, Weiran Liu, *Hanwen Feng*, Kunzhe Huang, Jinfei Liu, Kui Ren, Zhan Qin
 
-- [Preprint] PsiBench: Pragmatic Benchmark of Two-party Private Set Intersection [Eprint Link](https://eprint.iacr.org/2020/1541)
+- [Preprint] PsiBench: Pragmatic Benchmark of Two-party Private Set Intersection ([link](https://eprint.iacr.org/2020/1541))
 Ziyuan Liang, Weiran Liu, *Hanwen Feng*, Feng Han, Liqiang Peng, Li Peng, Chao Li, Guorui Xu, Lei Zhang, Fan Zhang
 
 
 Services
 ======
+
 Program Committees
 ---------------
+
 - 2025: [ACM CCS](https://www.sigsac.org/ccs/CCS2025/program-committee/), [FC](https://fc25.ifca.ai/cfp.html), [Crypto Valley](https://cryptovalleyconference.com/call-for-papers)
 
 - 2024: [ACM CCS](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html), [IACR PKC](https://pkc.iacr.org/2024/callforpapers.php)
