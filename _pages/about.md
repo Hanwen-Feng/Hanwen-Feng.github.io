@@ -15,12 +15,19 @@ I am currently a postdoctoral researcher at the School of Computer Science, Univ
 
 Here is my [CV](https://drive.google.com/file/d/1_0m7B9iVUsJsK_cWqAPafldvU1ruXhVF/view?usp=sharing). I am currently on the job market for academic positions. 
 
+<div style="background-color: #EEE; padding: 0.5em;">
+[Research](#research) &nbsp;|&nbsp; [Service](#service) &nbsp;|&nbsp; [Award](#award) &nbsp;|&nbsp; [Misc](#misc) &nbsp;|&nbsp; 
+</div>
 
-Research Interests and Outcomes
+
+
+Research Interests and Outcomes <a name="research"></a>
 ======
 I have a broad spectrum of interests in cryptography and computer security, with a recent focus on cryptography and consensus challenges in distributed systems. 
 
-Distributed Key and Randomness Generation
+[DKG](#dkg) | [Consensus](#ba) | [Accountability](#account) | [Privacy-preserving Computation](#privacy) 
+
+Distributed Key and Randomness Generation <a name="dkg"></a>
 ------------------------------
 *A secret’s birth that none alone can hold.*
 
@@ -42,7 +49,7 @@ ACM Conference on Computer and Communications Security (A* Conference)
 *Hanwen Feng*, Yuan Lu, Tiancheng Mai, Qiang Tang
 
 
-Byzantine Consensus
+Byzantine Consensus <a name="ba"></a>
 ------------------------------
 *Through whispers false and voices loud, consensus rises strong and proud.*
 
@@ -55,7 +62,7 @@ Byzantine Consensus
 - [Manuscript] Optimal Byzantine Agreement in the Presence of Message Drops  
 *Hanwen Feng*, Zhenliang Lu,  Qiang Tang, Yuchen Ye
 
-Authentication & Accountability
+Authentication & Accountability <a name="account"></a>
 ------------------------------
  *In each truth that a voice proclaims, accountability stands, and trust remains.*
 
@@ -82,7 +89,7 @@ Information Security Conference (B Conference)
 *Hanwen Feng*, Jianwei Liu, Qianhong Wu
 
 
-Privacy-preserving Computation
+Privacy-preserving Computation <a name="privacy"></a>
 ------------------------------
 
 - [VLDB' 23] OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization ([link](https://arxiv.org/pdf/2210.01318))  
@@ -101,7 +108,7 @@ Xiaochen Li, Weiran Liu, *Hanwen Feng*, Kunzhe Huang, Jinfei Liu, Kui Ren, Zhan 
 Ziyuan Liang, Weiran Liu, *Hanwen Feng*, Feng Han, Liqiang Peng, Li Peng, Chao Li, Guorui Xu, Lei Zhang, Fan Zhang
 
 
-Services
+Services <a name="service"></a>
 ======
 
 Program Committees
@@ -130,11 +137,11 @@ ACM Transactions on Recommender Systems, The Computer Journal, IEEE Network Maga
 
 
 
-Implementaions
+Implementaions <a name="misc"></a>
 ======
 I contributed to [mpc4j](https://github.com/alibaba-edu/mpc4j), a Java-based secure multiparty computation library supported by Alibaba.
 
-Awards & Honors
+Awards & Honors <a name="award"></a>
 ======
 I received *Excellent Doctoral Dissertation Award* from Beihang University, *Outstanding Graduate Student in Cyber Science* scholarship from China Internet Development Foundation, *National Scholarship* from China MOE, etc.
 
