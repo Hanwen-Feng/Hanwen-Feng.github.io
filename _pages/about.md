@@ -15,17 +15,14 @@ I am currently a postdoctoral researcher at the School of Computer Science, Univ
 
 Here is my [CV](https://drive.google.com/file/d/1_0m7B9iVUsJsK_cWqAPafldvU1ruXhVF/view?usp=sharing). I am currently on the job market for academic positions. 
 
-<div style="background-color: #EEE; padding: 0.5em;">
-[Research](#research) &nbsp;|&nbsp; [Service](#service) &nbsp;|&nbsp; [Award](#award) &nbsp;|&nbsp; [Misc](#misc) &nbsp;|&nbsp; 
-</div>
-
+# [Research](#research) | [Service](#service) | [Award](#award) | [Misc](#misc) 
 
 
 Research Interests and Outcomes <a name="research"></a>
 ======
 I have a broad spectrum of interests in cryptography and computer security, with a recent focus on cryptography and consensus challenges in distributed systems. 
 
-[DKG](#dkg) | [Consensus](#ba) | [Accountability](#account) | [Privacy-preserving Computation](#privacy) 
+## [DKG](#dkg) | [Consensus](#ba) | [Accountability](#account) | [Privacy-preserving Computation](#privacy) 
 
 Distributed Key and Randomness Generation <a name="dkg"></a>
 ------------------------------
