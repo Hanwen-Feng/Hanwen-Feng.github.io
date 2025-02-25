@@ -32,13 +32,13 @@ ACM Symposium on Principles of Distributed Computing (A* Conference)
 ACM Conference on Computer and Communications Security (A* Conference)  
 *Hanwen Feng*, Tiancheng Mai, Qiang Tang
 
-- [Preprint] Asymptotically Optimal Adaptive Asynchronous Common Coin and DKG with Silent Setup ([link](https://eprint.iacr.org/2024/2098))
-*Hanwen Feng*, Qiang Tang
+- [Preprint] Asymptotically Optimal Adaptive Asynchronous Common Coin and DKG with Silent Setup ([link](https://eprint.iacr.org/2024/2098))  
+*Hanwen Feng*, Qiang Tang 
 
-- [Preprint] Practical Asynchronous Distributed Key Reconfiguration and Its Applications ([link](https://eprint.iacr.org/2025/149))
+- [Preprint] Practical Asynchronous Distributed Key Reconfiguration and Its Applications ([link](https://eprint.iacr.org/2025/149))  
 *Hanwen Feng*, Yingzi Gao, Yuan Lu, Qiang Tang, Jing Xu
 
-- [Manuscript] Circular Dragon: $\widetilde{\mbox{O}}$ptimal Adaptively Secure Distributed Key and Randomness Generation
+- [Manuscript] Circular Dragon: $\widetilde{\mbox{O}}$ptimal Adaptively Secure Distributed Key and Randomness Generation  
 *Hanwen Feng*, Yuan Lu, Tiancheng Mai, Qiang Tang
 
 
@@ -46,13 +46,13 @@ Byzantine Consensus
 ------------------------------
 *Through whispers false and voices loud, consensus rises strong and proud.*
 
-- [Preprint] Making Hash-based MVBA Great Again ([link](https://eprint.iacr.org/2024/479))
+- [Preprint] Making Hash-based MVBA Great Again ([link](https://eprint.iacr.org/2024/479))  
 *Hanwen Feng*, Zhenliang Lu, Tiancheng Mai, Qiang Tang
 
-- [Preprint] $\widetilde{O}$ptimal Adaptively Secure Hash-based Asynchronous Common Subset ([link](https://eprint.iacr.org/2024/1710))
+- [Preprint] $\widetilde{O}$ptimal Adaptively Secure Hash-based Asynchronous Common Subset ([link](https://eprint.iacr.org/2024/1710))  
 *Hanwen Feng*, Zhenliang Lu,  Qiang Tang
 
-- [Manuscript] Optimal Byzantine Agreement in the Presence of Message Drops
+- [Manuscript] Optimal Byzantine Agreement in the Presence of Message Drops  
 *Hanwen Feng*, Zhenliang Lu,  Qiang Tang, Yuchen Ye
 
 Authentication & Accountability
@@ -97,7 +97,7 @@ Han Feng, Lan Zhang, *Hanwen Feng*, Weiran Liu, Xiangyang Li
 {IEEE Transactions on Dependable and Secure Computing} (A Journal)  
 Xiaochen Li, Weiran Liu, *Hanwen Feng*, Kunzhe Huang, Jinfei Liu, Kui Ren, Zhan Qin
 
-- [Preprint] PsiBench: Pragmatic Benchmark of Two-party Private Set Intersection ([link](https://eprint.iacr.org/2020/1541))
+- [Preprint] PsiBench: Pragmatic Benchmark of Two-party Private Set Intersection ([link](https://eprint.iacr.org/2020/1541))  
 Ziyuan Liang, Weiran Liu, *Hanwen Feng*, Feng Han, Liqiang Peng, Li Peng, Chao Li, Guorui Xu, Lei Zhang, Fan Zhang
 
 
@@ -120,6 +120,13 @@ Sub-reviewers
 - 2024: Oakland, CRYPTO, Usenix Security, NDSS, Asiacrypt
 
 - 2023: Oakland, Eurocrypt, NDSS, Asiacrypt, AsiaCCS, AFT
+
+
+
+Journal Reviewers
+---------------
+IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing,
+ACM Transactions on Recommender Systems, The Computer Journal, IEEE Network Magazine, Information Sciences, IET Information Security, etc.
 
 
 
