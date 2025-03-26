@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! Welcome to my homepage!
 
-I am currently a postdoctoral researcher at the School of Computer Science, University of Sydney, hosted by Dr. Qiang Tang. Prior to joining USYD, I worked as a senior security engineer at Alibaba Group (2021-2022) and completed my PhD at Beihang University (2017-2021), with a visiting period at the New Jersey Institute of Technology (2019-2020).
+I am currently a postdoctoral researcher at the School of Computer Science, [University of Sydney](https://www.sydney.edu.au/), hosted by [Dr. Qiang Tang](https://alkistang.github.io/). Prior to joining USYD, I worked as a senior security engineer at Alibaba Group (2021-2022) and completed my PhD at [Beihang University](https://ev.buaa.edu.cn/) (2017-2021), with a visiting period at the [New Jersey Institute of Technology](https://www.njit.edu/) (2019-2020).
 
 Here is my [CV](https://drive.google.com/file/d/1_0m7B9iVUsJsK_cWqAPafldvU1ruXhVF/view?usp=sharing). I am currently on the job market for academic positions. 
 
@@ -51,8 +51,8 @@ Byzantine Consensus <a name="ba"></a>
 *Through whispers false and voices loud, consensus rises strong and proud.*
 
 - [DSN'25] Faster Hash-based Multi-valued Validated Asynchronous Byzantine Agreement ([link](https://eprint.iacr.org/2024/479)) 
-Annual IEEE/IFIP International Conference on Dependable Systems and Networks (A Conference) 
-*Hanwen Feng*, Zhenliang Lu, Tiancheng Mai, Qiang Tang
+ Annual IEEE/IFIP International Conference on Dependable Systems and Networks (A Conference) 
+ *Hanwen Feng*, Zhenliang Lu, Tiancheng Mai, Qiang Tang
 
 - [Preprint] $\widetilde{O}$ptimal Adaptively Secure Hash-based Asynchronous Common Subset ([link](https://eprint.iacr.org/2024/1710))  
 *Hanwen Feng*, Zhenliang Lu,  Qiang Tang
