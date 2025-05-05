@@ -28,7 +28,7 @@ Distributed Key and Randomness Generation <a name="dkg"></a>
 ------------------------------
 *A secret’s birth that none alone can hold.*
 
-- [CRYPTO'25] Asymptotically Optimal Adaptive Asynchronous Common Coin and DKG with Silent Setup ([link](https://eprint.iacr.org/2024/2098))
+- [CRYPTO'25] Asymptotically Optimal Adaptive Asynchronous Common Coin and DKG with Silent Setup ([link](https://eprint.iacr.org/2024/2098))  
 Annual International Cryptology Conference (A* Conference)  
 *Hanwen Feng*, Qiang Tang 
 
@@ -51,7 +51,7 @@ Byzantine Consensus <a name="ba"></a>
 ------------------------------
 *Through whispers false and voices loud, consensus rises strong and proud.*
 
-- [DSN'25] Faster Hash-based Multi-valued Validated Asynchronous Byzantine Agreement ([link](https://eprint.iacr.org/2024/479)) 
+- [DSN'25] Faster Hash-based Multi-valued Validated Asynchronous Byzantine Agreement ([link](https://eprint.iacr.org/2024/479))  
  Annual IEEE/IFIP International Conference on Dependable Systems and Networks (A Conference) 
  *Hanwen Feng*, Zhenliang Lu, Tiancheng Mai, Qiang Tang
 
