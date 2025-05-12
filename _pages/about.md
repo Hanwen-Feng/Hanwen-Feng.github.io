@@ -52,7 +52,7 @@ Byzantine Consensus <a name="ba"></a>
 *Through whispers false and voices loud, consensus rises strong and proud.*
 
 - [DSN'25] Faster Hash-based Multi-valued Validated Asynchronous Byzantine Agreement ([link](https://eprint.iacr.org/2024/479))  
- Annual IEEE/IFIP International Conference on Dependable Systems and Networks (A Conference)
+ Annual IEEE/IFIP International Conference on Dependable Systems and Networks (A Conference)  
 *Best Paper Award (top 3 papers)*   
  *Hanwen Feng*, Zhenliang Lu, Tiancheng Mai, Qiang Tang
 
