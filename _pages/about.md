@@ -75,16 +75,16 @@ Theory of Cryptography Conference (A Conference)
 Journal of Cryptology (A* Journal, in Revision)  
 *Hanwen Feng*, Qiang Tang
 
- - [DCC' 21] Traceable Ring Signatures: General Framework and Post-quantum Security  
+ - [DCC' 21] Traceable Ring Signatures: General Framework and Post-quantum Security  ([PDF](https://drive.google.com/file/d/14_JbyRCIl3aZ5x94pk2fEzcoZR9x0ZJH/view?usp=sharing))  
 International Journal  - Designs, Codes and Cryptography (B Journal)  
 *Hanwen Feng*, Jianwei Liu, Dawei Li, Ya-Nan Li, Qianhong Wu
 
  
- - [CT-RSA' 20] Traceable Ring Signatures with Post-quantum Security  
+ - [CT-RSA' 20] Traceable Ring Signatures with Post-quantum Security ([PDF](https://drive.google.com/file/d/1ns49lyt5oO80wvfU00Z-PNcf-L4O4y65/view?usp=sharing))  
  Cryptographer's Track at RSA Conference (B Conference)  
  *Hanwen Feng*, Jianwei Liu, Ya-Nan Li, Qianhong Wu
 
- - [ISC' 19] Secure Stern Signatures in Quantum Random Oracle Model  
+ - [ISC' 19] Secure Stern Signatures in Quantum Random Oracle Model ([PDF](https://drive.google.com/file/d/18fkcAKjrEUe4ePnCYSqVTXBpZlIbmqsD/view?usp=sharing)) 
 Information Security Conference (B Conference)  
 *Hanwen Feng*, Jianwei Liu, Qianhong Wu
 
