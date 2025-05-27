@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! Welcome to my homepage!
 
-I am currently a postdoctoral researcher at the School of Computer Science, [University of Sydney](https://www.sydney.edu.au/), hosted by [Dr. Qiang Tang](https://alkistang.github.io/). Prior to joining USYD, I worked as a senior security engineer at Alibaba Group (2021-2022) and completed my PhD at [Beihang University](https://ev.buaa.edu.cn/) (2017-2021), with a visiting period at the [New Jersey Institute of Technology](https://www.njit.edu/) (2019-2020).
+I am currently a postdoctoral researcher at the School of Computer Science, [University of Sydney](https://www.sydney.edu.au/), hosted by [Dr. Qiang Tang](https://alkistang.github.io/). Prior to joining USYD, I worked as a senior security engineer at Alibaba Group (2021-2022) and completed my undergraduate study (2012-2016) and my PhD (2016-2021) at [Beihang University](https://ev.buaa.edu.cn/) , with a visiting period at the [New Jersey Institute of Technology](https://www.njit.edu/) (2019-2020).
 
 Here is my [CV](https://drive.google.com/file/d/1_0m7B9iVUsJsK_cWqAPafldvU1ruXhVF/view?usp=sharing). I am currently on the job market for academic positions. 
 
