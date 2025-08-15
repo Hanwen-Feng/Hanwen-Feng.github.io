@@ -56,11 +56,14 @@ Byzantine Consensus <a name="ba"></a>
 *Best Paper Award (top 3 papers)*   
  *Hanwen Feng*, Zhenliang Lu, Tiancheng Mai, Qiang Tang
 
+- [Asiacrypt'25] Optimal Byzantine Agreement in the Presence of Message Drops
+International Conference on the Theory and Application of Cryptology and Information Security(A Conference)   
+*Hanwen Feng*, Zhenliang Lu,  Qiang Tang, Yuchen Ye
+
 - [Preprint] $\widetilde{O}$ptimal Adaptively Secure Hash-based Asynchronous Common Subset ([link](https://eprint.iacr.org/2024/1710))  
 *Hanwen Feng*, Zhenliang Lu,  Qiang Tang
 
-- [Manuscript] Optimal Byzantine Agreement in the Presence of Message Drops  
-*Hanwen Feng*, Zhenliang Lu,  Qiang Tang, Yuchen Ye
+
 
 Authentication & Accountability <a name="account"></a>
 ------------------------------
