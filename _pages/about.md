@@ -28,6 +28,10 @@ Distributed Key and Randomness Generation <a name="dkg"></a>
 ------------------------------
 *A secret’s birth that none alone can hold.*
 
+- [S&P'26] Practical Asynchronous Distributed Key Reconfiguration and Its Applications ([link](https://eprint.iacr.org/2025/149))  
+IEEE Symposium on Security and Privacy (A* Conference)  
+*Hanwen Feng*, Yingzi Gao, Yuan Lu, Qiang Tang, Jing Xu 
+
 - [CRYPTO'25] Asymptotically Optimal Adaptive Asynchronous Common Coin and DKG with Silent Setup ([link](https://eprint.iacr.org/2024/2098))  
 Annual International Cryptology Conference (A* Conference)  
 *Hanwen Feng*, Qiang Tang 
@@ -39,9 +43,6 @@ ACM Symposium on Principles of Distributed Computing (A* Conference)
 - [CCS'24] Scalable and Adaptively Secure Any-Trust Distributed Key Generation and All-hands Checkpointing ([link](https://eprint.iacr.org/2023/1773.pdf))  
 ACM Conference on Computer and Communications Security (A* Conference)  
 *Hanwen Feng*, Tiancheng Mai, Qiang Tang
-
-- [Preprint] Practical Asynchronous Distributed Key Reconfiguration and Its Applications ([link](https://eprint.iacr.org/2025/149))  
-*Hanwen Feng*, Yingzi Gao, Yuan Lu, Qiang Tang, Jing Xu
 
 - [Manuscript] Circular Dragon: $\widetilde{\mbox{O}}$ptimal Adaptively Secure Distributed Key and Randomness Generation  
 *Hanwen Feng*, Yuan Lu, Tiancheng Mai, Qiang Tang
