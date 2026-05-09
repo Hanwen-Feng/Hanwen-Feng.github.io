@@ -151,3 +151,9 @@ footer {
         justify-content: center;
     }
 }
+
+.award-highlight {
+    color: #d9534f;
+    font-weight: 700;
+    margin: 4px 0;
+}
