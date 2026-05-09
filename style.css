@@ -131,3 +131,23 @@ footer {
 .bio-right h2:first-of-type {
     margin-top: 0;
 }
+
+/* Responsive layout for mobile devices */
+@media (max-width: 768px) {
+    body {
+        padding: 20px 10px;
+    }
+    
+    .page-container {
+        padding: 0 20px 20px;
+    }
+    
+    #bio {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    nav ul {
+        justify-content: center;
+    }
+}
